@@ -10,6 +10,10 @@
 
 - 使用 iOS 15 SDK 和最新的 THEOS。
 
+## 下载
+
+https://github.com/dlxg/YouPiP/releases
+
 ## 截图
 
 <img src="https://raw.githubusercontent.com/dlxg/YouPiP/main/images/setting.JPG" style="width:30%;" /> <img src="https://raw.githubusercontent.com/dlxg/YouPiP/main/images/show.JPG" style="width:30%;" />
