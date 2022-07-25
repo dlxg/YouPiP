@@ -1,0 +1,22 @@
+﻿// Settings
+
+"USE_PIP_BUTTON" = "画中画按钮";
+"USE_PIP_BUTTON_DESC" = "在视频播放界面上添加PiP按钮以启用画中画而不是关闭APP。";
+
+"USE_TAB_BAR_PIP_BUTTON" = "影片标签栏添加画中画按钮";
+"USE_TAB_BAR_PIP_BUTTON_DESC" = "在影片标签栏中添加PiP按钮以启用画中画而不是关闭APP。需要重新启动APP。";
+
+"DISABLE_PIP_MINI_PLAYER" = "迷你播放器中禁用画中画";
+"DISABLE_PIP_MINI_PLAYER_DESC" = "在迷你播放窗口时禁用画中画。";
+
+"LEGACY_PIP" = "旧版画中画";
+"LEGACY_PIP_DESC" = "使用 AVPlayerLayer 进行画中画。 这修复了加速错误，但也从任何影片中删除了 UHD 选项 (2K/4K)。 需要重新启动应用程式。";
+
+"NON_BACKGROUNDABLE_PIP" = "非背景画中画";
+"NON_BACKGROUNDABLE_PIP_DESC" = "为非背景影片启用画中画。";
+
+"FAKE_YT_VERSION" = "假 YouTube 版本";
+"FAKE_YT_VERSION_DESC" = "将 YouTube 版本设置为 %@，以便播放视频时的画中画按钮可以显示。";
+
+// Compatibility warning
+"UNSUPPORTED_YT_VERSION" = "YouTube 版本 %@ 未经测试，YouPiP 可能不支持，请将 YouTube 至少升级到版本 %@";
